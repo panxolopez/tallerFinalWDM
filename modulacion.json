@@ -1,0 +1,193 @@
+{
+    "10": [
+        {
+            "BPSK": {
+                "slots": 1,
+                "reach": 4000
+            }
+        },
+        {
+            "QPSK": {
+                "slots": 1,
+                "reach": 2000
+            }
+        },
+        {
+            "8-QAM": {
+                "slots": 1,
+                "reach": 1000
+            }
+        },
+        {
+            "16-QAM": {
+                "slots": 1,
+                "reach": 500
+            }
+        },
+        {
+            "32-QAM": {
+                "slots": 1,
+                "reach": 250
+            }
+        },
+        {
+            "64-QAM": {
+                "slots": 1,
+                "reach": 125
+            }
+        }
+        
+    ],
+    "40": [
+        {
+            "BPSK": {
+                "slots": 4,
+                "reach": 4000
+            }
+        },
+        {
+            "QPSK": {
+                "slots": 2,
+                "reach": 2000
+            }
+        },
+        {
+            "8-QAM": {
+                "slots": 2,
+                "reach": 1000
+            }
+        },
+        {
+            "16-QAM": {
+                "slots": 1,
+                "reach": 500
+            }
+        },
+        {
+            "32-QAM": {
+                "slots": 1,
+                "reach": 250
+            }
+        },
+        {
+            "64-QAM": {
+                "slots": 1,
+                "reach": 125
+            }
+        }
+    ],
+    "100": [
+        {
+            "BPSK": {
+                "slots": 8,
+                "reach": 4000
+            }
+        },
+        {
+            "QPSK": {
+                "slots": 4,
+                "reach": 2000
+            }
+        },
+        {
+            "8-QAM": {
+                "slots": 3,
+                "reach": 1000
+            }
+        },
+        {
+            "16-QAM": {
+                "slots": 2,
+                "reach": 500
+            }
+        },
+        {
+            "32-QAM": {
+                "slots": 2,
+                "reach": 250
+            }
+        },
+        {
+            "64-QAM": {
+                "slots": 2,
+                "reach": 125
+            }
+        }
+    ],
+    "400": [
+        {
+            "BPSK": {
+                "slots": 32,
+                "reach": 4000
+            }
+        },
+        {
+            "QPSK": {
+                "slots": 16,
+                "reach": 2000
+            }
+        },
+        {
+            "8-QAM": {
+                "slots": 11,
+                "reach": 1000
+            }
+        },
+        {
+            "16-QAM": {
+                "slots": 8,
+                "reach": 500
+            }
+        },
+        {
+            "32-QAM": {
+                "slots": 7,
+                "reach": 250
+            }
+        },
+        {
+            "64-QAM": {
+                "slots": 6,
+                "reach": 125
+            }
+        }
+    ],
+    "1000": [
+        {
+            "BPSK": {
+                "slots": 80,
+                "reach": 4000
+            }
+        },
+        {
+            "QPSK": {
+                "slots": 40,
+                "reach": 2000
+            }
+        },
+        {
+            "8-QAM": {
+                "slots": 27,
+                "reach": 1000
+            }
+        },
+        {
+            "16-QAM": {
+                "slots": 20,
+                "reach": 500
+            }
+        },
+        {
+            "32-QAM": {
+                "slots": 16,
+                "reach": 250
+            }
+        },
+        {
+            "64-QAM": {
+                "slots": 14,
+                "reach": 125
+            }
+        }
+    ]
+}
